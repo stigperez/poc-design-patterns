@@ -1,0 +1,8 @@
+C:\development\poc-design-patterns\classlib\bin\Debug\netcoreapp2.2\classlib.deps.json
+C:\development\poc-design-patterns\classlib\bin\Debug\netcoreapp2.2\classlib.dll
+C:\development\poc-design-patterns\classlib\bin\Debug\netcoreapp2.2\classlib.pdb
+C:\development\poc-design-patterns\classlib\obj\Debug\netcoreapp2.2\classlib.csprojAssemblyReference.cache
+C:\development\poc-design-patterns\classlib\obj\Debug\netcoreapp2.2\classlib.AssemblyInfoInputs.cache
+C:\development\poc-design-patterns\classlib\obj\Debug\netcoreapp2.2\classlib.AssemblyInfo.cs
+C:\development\poc-design-patterns\classlib\obj\Debug\netcoreapp2.2\classlib.dll
+C:\development\poc-design-patterns\classlib\obj\Debug\netcoreapp2.2\classlib.pdb

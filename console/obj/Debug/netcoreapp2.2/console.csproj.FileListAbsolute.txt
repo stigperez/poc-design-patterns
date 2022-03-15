@@ -1,0 +1,13 @@
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\console.deps.json
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\console.runtimeconfig.json
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\console.runtimeconfig.dev.json
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\console.dll
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\console.pdb
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\classlib.dll
+C:\development\poc-design-patterns\console\bin\Debug\netcoreapp2.2\classlib.pdb
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.csprojAssemblyReference.cache
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.AssemblyInfoInputs.cache
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.AssemblyInfo.cs
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.csproj.CopyComplete
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.dll
+C:\development\poc-design-patterns\console\obj\Debug\netcoreapp2.2\console.pdb

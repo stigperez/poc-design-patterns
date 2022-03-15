@@ -1,0 +1,3 @@
+To run any design pattern example, start the console app and supply the name of the pattern as an argument.
+See the enum "PatternType" for all compatible pattern names.
+For more info on design patterns, see https://refactoring.guru/design-patterns and https://code-maze.com/design-patterns-csharp
