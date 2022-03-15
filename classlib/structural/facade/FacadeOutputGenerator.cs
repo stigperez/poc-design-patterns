@@ -3,6 +3,10 @@ using System.Text;
 
 namespace classlib.structural.facade
 {
+    /*
+    * The purpose of the facade pattern is to offer the client a simple entry point to a complex and/or poorly designed module/framework/app
+    * Be aware not to turn the facade class into a "God object"
+    */
     public class FacadeOutputGenerator : BaseOutputGenerator
     {
         public override string GetOutput()

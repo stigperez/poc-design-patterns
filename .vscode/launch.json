@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/console/bin/Debug/netcoreapp2.2/console.dll",
-            "args": ["facade"],
+            "args": ["flyweight"],
             "cwd": "${workspaceFolder}/console",
             "console": "internalConsole",
             "stopAtEntry": false,
